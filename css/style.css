@@ -1,0 +1,8 @@
+.caption-content > h1{
+    margin-top: 0px;
+    font-size: 25px;
+}
+
+.col-md-10 > #message-text{
+    height: 80px;
+}
